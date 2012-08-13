@@ -2,6 +2,6 @@ package com.liuxinglanyue;
 
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("liuxinglanyue");
+		System.out.println("liuxinglanyue1");
 	}
 }
